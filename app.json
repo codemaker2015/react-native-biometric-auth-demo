@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-biometric-auth-demo",
+    "slug": "react-native-biometric-auth-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-biometric-auth-demo"
+}
